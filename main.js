@@ -7,6 +7,7 @@
 // relacionar JS con elementos HTML con document.getElementById("nombre del id del elemento")
 const div1 = document.getElementById("div1"); //la variable div1 en JS se refiere al elemento HTML #div1
 const div2 = document.getElementById("div2");
+// añadimos aqui el cambio para que muestre al principio la palabra en minúsculas
 let palabraOK = "ironhack";
 div2.innerHTML = palabraOK;
 
