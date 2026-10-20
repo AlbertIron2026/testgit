@@ -7,6 +7,8 @@
 // relacionar JS con elementos HTML con document.getElementById("nombre del id del elemento")
 const div1 = document.getElementById("div1"); //la variable div1 en JS se refiere al elemento HTML #div1
 const div2 = document.getElementById("div2");
+let palabraOK = "ironhack";
+div2.innerHTML = palabraOK;
 
 // se le llama y no recibe parametros y no tiene un return
 function sumar() {
@@ -39,7 +41,7 @@ function aMayusculas(palabra) {
 
 //esta es extra para llamar la funcion aMayusculas desde botón HTML. Recibe e imprime el resultado
 function arrancarMay() {
-  let resultado = aMayusculas("ironhack"); //le paso un parametro y lo guarda en 'resultado'
+  let resultado = aMayusculas(palabraOK); //le paso un parametro y lo guarda en 'resultado'
   console.log(resultado); //imprime en consola
 
   div2.innerHTML = resultado; //imprime en el div
