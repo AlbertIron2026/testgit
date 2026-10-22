@@ -1,8 +1,4 @@
-tenga// una funcion es un bloque de codigo con nombre al que puedes llamar cuando lo necesites
-// lo llamas por sunombre() y parentesis
-// variedades: pasar o no parametros (datos) y que tenga o no RETURN (retorne datos o no)
-// para decirle que ese codigo es una funcion, pones function delante
-// se aconseja que cada funcion haga una sola cosa y que no sea muy larga
+// que lio con las ramas, ahora estoy en rama 3
 
 // relacionar JS con elementos HTML con document.getElementById("nombre del id del elemento")
 const divNumeros = document.getElementById("divNumeros"); //la variable divNumeros en JS se refiere al elemento HTML #divNumeros
