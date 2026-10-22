@@ -1,4 +1,4 @@
-// estamos en rama 2
+// estamos en rama 2. vamos a intentar mezclarlo con la main desde TERMINAL
 
 // relacionar JS con elementos HTML con document.getElementById("nombre del id del elemento")
 const divNumeros = document.getElementById("divNumeros"); //la variable divNumeros en JS se refiere al elemento HTML #divNumeros
