@@ -1,7 +1,8 @@
-# lsitado de archivos, o tipos de archivos 8extensiones) o carpetas
+# listado de archivos, o tipos de archivos 8extensiones) o carpetas
 # que quedan excluidos del control git
 # muy frecuente!! tener en cuenta!!!
 
+# el archivo va con el punto delante (.gitignore) y en la misma raíz del proyecto, donde se hace el control de versiones git
 passwords.txt
 
 ./*.txt
