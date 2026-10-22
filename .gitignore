@@ -1,3 +1,7 @@
+# lsitado de archivos, o tipos de archivos 8extensiones) o carpetas
+# que quedan excluidos del control git
+# muy frecuente!! tener en cuenta!!!
+
 passwords.txt
 
 ./*.txt
