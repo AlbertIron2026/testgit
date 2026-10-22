@@ -1,0 +1,7 @@
+passwords.txt
+
+*.txt
+
+*.properties
+
+out/
