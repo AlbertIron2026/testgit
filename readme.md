@@ -1,1 +1,4 @@
-HOLA MUNDO DESDE RAMA 2 !!!
+HOLA MUNDO DESDE el jueves!!!
+
+probando el gitignore
+
