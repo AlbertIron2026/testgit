@@ -1,6 +1,6 @@
 passwords.txt
 
-*.txt
+./*.txt
 
 *.properties
 
