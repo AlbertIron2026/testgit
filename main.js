@@ -1,4 +1,6 @@
-// estamos en el main. Esto es un caso de ExpedienteX
+// estamos en el main. Esto es un caso de ExpedienteX.
+// Vamos a intentar mezclarlo con la main desde TERMINAL
+
 
 // relacionar JS con elementos HTML con document.getElementById("nombre del id del elemento")
 const divNumeros = document.getElementById("divNumeros"); //la variable divNumeros en JS se refiere al elemento HTML #divNumeros
